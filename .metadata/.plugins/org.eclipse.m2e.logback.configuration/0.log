@@ -1,0 +1,1077 @@
+2016-09-01 11:24:06,629 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.weekfiveproject:weekfiveproject:1.0 @ C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\pom.xml.
+2016-09-01 11:24:08,362 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weekfiveproject/src/main/java
+2016-09-01 11:24:08,363 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /weekfiveproject/src/main/resources
+2016-09-01 11:24:08,363 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /weekfiveproject/src/test/java
+2016-09-01 11:24:10,247 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2016-09-01 11:24:11,201 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 11:24:11,215 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 11:24:11,217 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 11:24:11,222 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 11:24:12,379 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 11:24:12,388 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 11:24:12,390 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 11:24:12,417 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:05:29,955 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:05:30,012 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:05:30,013 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:05:30,019 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:05:52,443 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.weekfiveproject:weekfiveproject:1.0 @ C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\pom.xml.
+2016-09-01 13:05:53,266 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:05:53,273 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:05:53,277 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:05:53,283 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:05:53,286 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of weekfiveproject
+2016-09-01 13:05:53,287 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for weekfiveproject
+2016-09-01 13:05:53,343 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:05:53,565 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:05:53,570 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:05:53,571 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:05:53,576 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:06:51,067 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:06:51,071 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:06:51,073 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:06:51,080 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:07:56,475 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:07:56,485 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:07:56,490 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:07:56,499 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:08:07,481 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:08:07,487 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:08:07,488 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:08:07,498 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:08:23,050 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:08:23,059 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:08:23,065 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:08:23,071 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:08:54,034 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:08:54,038 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:08:54,039 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:08:54,054 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:17:20,379 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:17:20,393 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:17:20,401 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:17:20,412 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:18:46,979 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:18:46,990 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:18:46,992 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:18:47,001 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:18:54,241 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:18:54,247 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:18:54,251 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:18:54,258 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:23:32,194 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:23:32,200 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:23:32,202 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:23:32,210 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:34:00,947 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:34:00,963 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:34:00,971 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:34:00,979 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:35:02,819 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:35:02,831 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:35:02,832 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:35:02,839 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:35:34,293 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:35:34,309 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:35:34,316 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:35:34,327 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:36:23,484 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:36:23,488 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:36:23,488 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:36:23,494 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:39:32,342 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:39:32,359 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:39:32,368 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:39:32,380 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:41:06,975 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:41:06,983 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:41:06,985 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:41:06,997 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:42:04,997 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:42:05,011 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:42:05,018 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:42:05,026 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:44:36,631 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:44:36,641 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:44:36,642 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:44:36,651 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 13:45:33,396 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:45:33,402 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 13:45:33,406 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 13:45:33,411 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:07:55,537 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:07:55,544 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:07:55,545 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:07:55,554 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:09:41,287 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:09:41,302 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:09:41,310 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:09:41,322 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:14:35,836 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:14:35,842 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:14:35,844 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:14:35,856 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:15:01,952 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:15:01,964 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:15:01,970 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:15:01,980 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:16:40,554 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:16:40,565 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:16:40,567 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:16:40,579 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:17:48,548 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:17:48,562 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:17:48,569 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:17:48,580 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:23:05,812 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:23:05,816 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:23:05,817 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:23:05,823 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:23:07,143 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:23:07,158 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:23:07,162 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:23:07,170 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:24:48,883 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:24:48,888 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:24:48,890 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:24:48,898 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:25:07,601 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:25:07,611 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:25:07,617 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:25:07,627 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:25:37,721 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:25:37,727 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:25:37,728 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:25:37,736 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:25:51,045 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:25:51,052 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:25:51,057 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:25:51,064 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:26:33,263 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:26:33,267 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:26:33,269 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:26:33,278 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:32:13,742 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:32:13,748 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:32:13,751 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:32:13,757 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:34:09,412 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:34:09,417 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:34:09,418 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:34:09,427 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:38:12,928 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:38:12,934 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:38:12,937 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:38:12,942 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:38:29,812 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:38:29,817 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:38:29,818 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:38:29,825 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:47:26,550 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:47:26,559 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:47:26,563 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:47:26,570 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:52:08,964 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:52:08,969 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:52:08,970 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:52:08,976 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 14:55:42,644 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:55:42,650 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 14:55:42,653 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 14:55:42,658 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:00:22,338 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:00:22,343 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:00:22,344 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:00:22,351 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:10:25,898 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:10:25,906 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:10:25,909 [Worker-173] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:10:25,916 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:15:50,799 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:15:50,803 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:15:50,803 [Worker-166] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:15:50,809 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:44:35,387 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:44:35,392 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:44:35,396 [Worker-188] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:44:35,401 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:46:56,317 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:46:56,322 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:46:56,322 [Worker-191] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:46:56,328 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:49:23,104 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:49:23,113 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:49:23,116 [Worker-185] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:49:23,122 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:52:36,346 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:52:36,350 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:52:36,350 [Worker-199] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:52:36,356 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 15:53:39,554 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:53:39,562 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 15:53:39,565 [Worker-200] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 15:53:39,572 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:02:01,592 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:02:01,602 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:02:01,603 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:02:01,612 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:03:12,763 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:03:12,776 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:03:12,782 [Worker-209] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:03:12,792 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:03:41,195 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:03:41,204 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:03:41,206 [Worker-210] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:03:41,218 [Worker-210] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:07:08,047 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:07:08,069 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:07:08,074 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:07:08,082 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:09:17,472 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:09:17,480 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:09:17,482 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:09:17,497 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:09:48,539 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:09:48,555 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:09:48,560 [Worker-208] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:09:48,569 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:12:03,232 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:12:03,243 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:12:03,246 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:12:03,258 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:13:17,372 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:13:17,381 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:13:17,384 [Worker-212] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:13:17,390 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:14:13,579 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:14:13,583 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:14:13,584 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:14:13,592 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:15:03,821 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:15:03,831 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:15:03,837 [Worker-205] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:15:03,846 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:27:33,043 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:27:33,050 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:27:33,052 [Worker-226] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:27:33,065 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:28:29,937 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:28:29,955 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:28:29,961 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:28:29,971 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:28:48,065 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:28:48,075 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:28:48,077 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:28:48,091 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:28:59,589 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:28:59,608 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:28:59,619 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:28:59,629 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:29:13,297 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:29:13,301 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:29:13,302 [Worker-222] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:29:13,315 [Worker-222] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:30:12,372 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:30:12,381 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:30:12,386 [Worker-227] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:30:12,395 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:31:46,325 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:31:46,329 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:31:46,330 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:31:46,399 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:33:45,800 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:33:45,821 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:33:45,826 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:33:45,834 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:34:26,975 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:34:26,983 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:34:26,984 [Worker-229] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:34:26,994 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:39:35,130 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:39:35,136 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:39:35,140 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:39:35,145 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:41:08,639 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:41:08,643 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:41:08,644 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:41:08,650 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:41:34,042 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:41:34,062 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:41:34,067 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:41:34,077 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:42:00,471 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:42:00,482 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:42:00,485 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:42:00,497 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:42:44,962 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:42:44,981 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:42:44,987 [Worker-237] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:42:44,998 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:43:35,399 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:43:35,404 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:43:35,405 [Worker-234] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:43:35,413 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:44:08,561 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:44:08,578 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:44:08,588 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:44:08,605 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:45:05,173 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:45:05,180 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:45:05,181 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:45:05,194 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:45:44,792 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:45:44,798 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:45:44,801 [Worker-235] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:45:44,806 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-01 16:46:05,028 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:46:05,039 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-01 16:46:05,041 [Worker-240] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-01 16:46:05,055 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:35:07,088 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:35:07,107 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:35:07,113 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:35:07,121 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:37:02,303 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:37:02,313 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:37:02,315 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:37:02,326 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:38:08,833 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:38:08,841 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:38:08,844 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:38:08,851 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:38:37,292 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:38:37,302 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:38:37,304 [Worker-243] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:38:37,318 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:38:56,069 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:38:56,081 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:38:56,085 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:38:56,090 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:39:08,142 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:39:08,152 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:39:08,153 [Worker-256] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:39:08,160 [Worker-256] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:39:20,593 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:39:20,604 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:39:20,610 [Worker-248] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:39:20,619 [Worker-248] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:46:27,379 [Worker-255] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:46:27,386 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:46:27,387 [Worker-255] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:46:27,401 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:49:36,701 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:49:36,709 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:49:36,713 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:49:36,721 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:50:35,921 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:50:35,924 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:50:35,925 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:50:35,930 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:51:20,152 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:51:20,171 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:51:20,177 [Worker-266] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:51:20,186 [Worker-266] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:52:37,492 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:52:37,495 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:52:37,496 [Worker-269] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:52:37,501 [Worker-269] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:54:45,129 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:54:45,144 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:54:45,152 [Worker-262] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:54:45,164 [Worker-262] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:56:40,664 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:56:40,669 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:56:40,670 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:56:40,679 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:57:37,004 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:57:37,018 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:57:37,026 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:57:37,037 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:58:35,856 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:58:35,864 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:58:35,865 [Worker-273] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:58:35,873 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 08:59:16,076 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:59:16,094 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 08:59:16,102 [Worker-279] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 08:59:16,115 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:01:03,392 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:01:03,403 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:01:03,404 [Worker-275] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:01:03,424 [Worker-275] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:05:24,853 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:05:24,859 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:05:24,862 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:05:24,869 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:06:35,492 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:06:35,497 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:06:35,498 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:06:35,506 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:09:46,537 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:09:46,548 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:09:46,552 [Worker-286] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:09:46,559 [Worker-286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:12:39,861 [Worker-292] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:12:39,872 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:12:39,874 [Worker-292] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:12:39,887 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:13:50,504 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:13:50,513 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:13:50,518 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:13:50,526 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:15:10,744 [Worker-295] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:15:10,748 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:15:10,748 [Worker-295] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:15:10,753 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:16:01,316 [Worker-295] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:16:01,335 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:16:01,343 [Worker-295] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:16:01,357 [Worker-295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:16:14,710 [Worker-294] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:16:14,717 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:16:14,719 [Worker-294] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:16:14,733 [Worker-294] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:18:12,953 [Worker-297] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:18:12,972 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:18:12,979 [Worker-297] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:18:12,992 [Worker-297] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:18:51,913 [Worker-292] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:18:51,918 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:18:51,919 [Worker-292] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:18:51,928 [Worker-292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:19:20,584 [Worker-296] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:19:20,596 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:19:20,600 [Worker-296] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:19:20,608 [Worker-296] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:20:02,577 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:20:02,583 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:20:02,584 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:20:02,593 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:23:01,794 [Worker-298] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:23:01,800 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:23:01,803 [Worker-298] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:23:01,808 [Worker-298] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:26:35,825 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:26:35,829 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:26:35,830 [Worker-293] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:26:35,836 [Worker-293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:33:26,757 [Worker-311] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:33:26,773 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:33:26,776 [Worker-311] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:33:26,782 [Worker-311] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:36:22,858 [Worker-309] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:36:22,861 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:36:22,862 [Worker-309] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:36:22,867 [Worker-309] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:58:47,603 [Worker-320] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:58:47,610 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:58:47,614 [Worker-320] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:58:47,620 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:59:11,701 [Worker-320] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:59:11,711 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:59:11,713 [Worker-320] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:59:11,727 [Worker-320] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 09:59:20,087 [Worker-327] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:59:20,110 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 09:59:20,143 [Worker-327] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 09:59:20,148 [Worker-327] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:00:35,498 [Worker-325] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:00:35,505 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:00:35,506 [Worker-325] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:00:35,516 [Worker-325] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:01:13,329 [Worker-324] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:01:13,341 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:01:13,347 [Worker-324] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:01:13,358 [Worker-324] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:01:32,198 [Worker-323] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:01:32,209 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:01:32,211 [Worker-323] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:01:32,229 [Worker-323] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:02:18,693 [Worker-328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:02:18,712 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:02:18,724 [Worker-328] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:02:18,737 [Worker-328] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:05:12,531 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:05:12,539 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:05:12,541 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:05:12,552 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:06:07,619 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:06:07,626 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:06:07,629 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:06:07,634 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:06:51,206 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:06:51,217 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:06:51,219 [Worker-330] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:06:51,230 [Worker-330] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:10:56,417 [Worker-337] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:10:56,426 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:10:56,430 [Worker-337] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:10:56,437 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:15:07,183 [Worker-341] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:15:07,188 [Worker-341] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:15:07,189 [Worker-341] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:15:07,196 [Worker-341] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:22:57,254 [Worker-342] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:22:57,266 [Worker-342] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:22:57,272 [Worker-342] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:22:57,282 [Worker-342] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:23:23,133 [Worker-345] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:23:23,137 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:23:23,137 [Worker-345] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:23:23,147 [Worker-345] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:25:25,323 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:25:25,329 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:25:25,332 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:25:25,338 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:26:22,580 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:26:22,584 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:26:22,584 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:26:22,590 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:27:58,382 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:27:58,402 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:27:58,412 [Worker-351] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:27:58,426 [Worker-351] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:29:31,471 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:29:31,482 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:29:31,483 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:29:31,498 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:30:18,319 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:30:18,338 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:30:18,345 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:30:18,355 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:31:08,803 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:31:08,807 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:31:08,808 [Worker-354] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:31:08,813 [Worker-354] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:32:05,773 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:32:05,799 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:32:05,807 [Worker-346] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:32:05,815 [Worker-346] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:32:43,979 [Worker-348] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:32:43,985 [Worker-348] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:32:43,986 [Worker-348] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:32:43,994 [Worker-348] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:34:20,897 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:34:20,903 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:34:20,906 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:34:20,911 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:38:52,583 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:38:52,591 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:38:52,592 [Worker-357] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:38:52,602 [Worker-357] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:39:15,528 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:39:15,535 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:39:15,538 [Worker-353] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:39:15,543 [Worker-353] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:39:41,564 [Worker-361] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:39:41,567 [Worker-361] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:39:41,567 [Worker-361] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:39:41,573 [Worker-361] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 10:59:35,084 [Worker-374] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:59:35,089 [Worker-374] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 10:59:35,092 [Worker-374] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 10:59:35,098 [Worker-374] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:00:09,928 [Worker-374] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:00:09,935 [Worker-374] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:00:09,937 [Worker-374] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:00:09,946 [Worker-374] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:03:18,703 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:03:18,709 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:03:18,712 [Worker-367] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:03:18,718 [Worker-367] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:03:54,896 [Worker-385] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:03:54,900 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:03:54,900 [Worker-385] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:03:54,906 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:04:43,146 [Worker-384] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:04:43,157 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:04:43,161 [Worker-384] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:04:43,168 [Worker-384] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:07:42,114 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:07:42,118 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:07:42,119 [Worker-391] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:07:42,127 [Worker-391] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:10:32,162 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:10:32,175 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:10:32,181 [Worker-393] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:10:32,192 [Worker-393] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:15:56,456 [Worker-378] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:15:56,461 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:15:56,462 [Worker-378] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:15:56,470 [Worker-378] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:21:05,836 [Worker-404] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:21:05,860 [Worker-404] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:21:05,865 [Worker-404] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:21:05,873 [Worker-404] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:21:17,433 [Worker-404] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:21:17,443 [Worker-404] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:21:17,444 [Worker-404] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:21:17,457 [Worker-404] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:22:31,544 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:22:31,553 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:22:31,559 [Worker-406] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:22:31,568 [Worker-406] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:22:44,967 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:22:44,978 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:22:44,980 [Worker-405] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:22:44,989 [Worker-405] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:25:13,951 [Worker-404] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:25:13,957 [Worker-404] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:25:13,959 [Worker-404] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:25:13,964 [Worker-404] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:25:32,996 [Worker-413] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:25:33,003 [Worker-413] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:25:33,004 [Worker-413] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:25:33,013 [Worker-413] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:26:16,224 [Worker-410] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:26:16,233 [Worker-410] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:26:16,238 [Worker-410] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:26:16,245 [Worker-410] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:27:19,512 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:27:19,519 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:27:19,520 [Worker-412] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:27:19,531 [Worker-412] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 11:27:35,666 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:27:35,676 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 11:27:35,680 [Worker-414] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 11:27:35,688 [Worker-414] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 12:42:23,988 [Worker-439] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:42:23,991 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 12:42:23,992 [Worker-439] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:42:23,997 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 12:43:53,853 [Worker-303] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:43:53,868 [Worker-303] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 12:43:53,874 [Worker-303] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:43:53,884 [Worker-303] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 12:47:38,819 [Worker-440] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:47:38,822 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 12:47:38,823 [Worker-440] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:47:38,828 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 12:49:46,475 [Worker-449] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:49:46,488 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 12:49:46,493 [Worker-449] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:49:46,503 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 12:54:54,046 [Worker-457] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:54:54,049 [Worker-457] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 12:54:54,050 [Worker-457] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:54:54,055 [Worker-457] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 12:59:26,462 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:59:26,469 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 12:59:26,473 [Worker-460] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 12:59:26,481 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:07:18,038 [Worker-467] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:07:18,042 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:07:18,043 [Worker-467] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:07:18,048 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:08:12,737 [Worker-467] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:08:12,754 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:08:12,758 [Worker-467] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:08:12,763 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:08:18,784 [Worker-469] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:08:18,794 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:08:18,796 [Worker-469] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:08:18,865 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:08:37,003 [Worker-467] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:08:37,017 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:08:37,025 [Worker-467] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:08:37,035 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:09:21,925 [Worker-465] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:09:21,935 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:09:21,937 [Worker-465] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:09:21,948 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:10:00,439 [Worker-471] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:10:00,461 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:10:00,468 [Worker-471] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:10:00,479 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:10:34,010 [Worker-468] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:10:34,020 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:10:34,021 [Worker-468] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:10:34,033 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:10:59,981 [Worker-469] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:11:00,002 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:11:00,013 [Worker-469] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:11:00,022 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:11:24,967 [Worker-469] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:11:24,975 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:11:24,976 [Worker-469] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:11:24,987 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:11:55,627 [Worker-470] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:11:55,646 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:11:55,657 [Worker-470] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:11:55,671 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:17:52,677 [Worker-463] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:17:52,680 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:17:52,681 [Worker-463] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:17:52,688 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:18:04,537 [Worker-478] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:18:04,542 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:18:04,546 [Worker-478] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:18:04,552 [Worker-478] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:20:26,140 [Worker-463] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:20:26,151 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:20:26,153 [Worker-463] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:20:26,171 [Worker-463] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:21:41,482 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:21:41,501 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:21:41,506 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:21:41,515 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:23:02,753 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:23:02,757 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:23:02,758 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:23:02,764 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:24:13,684 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:24:13,698 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:24:13,703 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:24:13,712 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:24:28,204 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:24:28,207 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:24:28,208 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:24:28,213 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:25:40,516 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:25:40,536 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:25:40,544 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:25:40,555 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:26:32,139 [Worker-490] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:26:32,146 [Worker-490] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:26:32,147 [Worker-490] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:26:32,157 [Worker-490] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:26:34,264 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:26:34,284 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:26:34,294 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:26:34,308 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:26:54,421 [Worker-489] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:26:54,427 [Worker-489] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:26:54,429 [Worker-489] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:26:54,440 [Worker-489] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:27:57,718 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:27:57,735 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:27:57,741 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:27:57,752 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:28:10,581 [Worker-486] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:28:10,592 [Worker-486] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:28:10,594 [Worker-486] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:28:10,607 [Worker-486] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:28:19,691 [Worker-492] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:28:19,705 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:28:19,713 [Worker-492] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:28:19,724 [Worker-492] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:28:43,890 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:28:43,901 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:28:43,902 [Worker-477] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:28:43,911 [Worker-477] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:29:08,627 [Worker-493] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:29:08,648 [Worker-493] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:29:08,656 [Worker-493] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:29:08,668 [Worker-493] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:42:23,455 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:42:23,466 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:42:23,468 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:42:23,482 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:44:24,256 [Worker-495] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:44:24,265 [Worker-495] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:44:24,269 [Worker-495] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:44:24,277 [Worker-495] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:44:44,107 [Worker-501] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:44:44,110 [Worker-501] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:44:44,110 [Worker-501] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:44:44,116 [Worker-501] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:45:14,911 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:45:14,925 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:45:14,929 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:45:14,937 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:45:23,666 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:45:23,676 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:45:23,678 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:45:23,695 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:46:52,226 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:46:52,243 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:46:52,247 [Worker-500] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:46:52,255 [Worker-500] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:47:21,750 [Worker-495] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:47:21,761 [Worker-495] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:47:21,762 [Worker-495] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:47:21,779 [Worker-495] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:47:48,953 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:47:48,971 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:47:48,977 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:47:48,987 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:48:53,915 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:48:53,925 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:48:53,927 [Worker-502] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:48:53,946 [Worker-502] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 13:49:10,443 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:49:10,462 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 13:49:10,473 [Worker-483] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 13:49:10,486 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:03:20,315 [Worker-510] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:03:20,318 [Worker-510] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:03:20,319 [Worker-510] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:03:20,325 [Worker-510] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:15:51,118 [Worker-516] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:15:51,136 [Worker-516] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:15:51,141 [Worker-516] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:15:51,150 [Worker-516] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:33:55,211 [Worker-527] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:33:55,217 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:33:55,218 [Worker-527] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:33:55,227 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:34:18,278 [Worker-528] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:34:18,284 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:34:18,287 [Worker-528] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:34:18,293 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:34:21,443 [Worker-531] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:34:21,454 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:34:21,456 [Worker-531] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:34:21,469 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:35:25,827 [Worker-532] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:35:25,844 [Worker-532] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:35:25,849 [Worker-532] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:35:25,859 [Worker-532] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:36:39,445 [Worker-531] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:36:39,456 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:36:39,458 [Worker-531] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:36:39,469 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:37:38,888 [Worker-527] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:37:38,902 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:37:38,910 [Worker-527] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:37:38,923 [Worker-527] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:38:11,321 [Worker-531] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:38:11,331 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:38:11,332 [Worker-531] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:38:11,350 [Worker-531] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:38:40,191 [Worker-528] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:38:40,198 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:38:40,201 [Worker-528] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:38:40,206 [Worker-528] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:39:14,683 [Worker-535] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:39:14,694 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:39:14,696 [Worker-535] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:39:14,714 [Worker-535] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:39:38,077 [Worker-529] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:39:38,089 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:39:38,093 [Worker-529] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:39:38,101 [Worker-529] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:40:03,806 [Worker-534] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:40:03,817 [Worker-534] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:40:03,819 [Worker-534] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:40:03,829 [Worker-534] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:43:44,140 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:43:44,153 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:43:44,157 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:43:44,165 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:43:46,201 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:43:46,209 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:43:46,210 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:43:46,223 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:46:22,709 [Worker-541] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:46:22,725 [Worker-541] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:46:22,732 [Worker-541] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:46:22,743 [Worker-541] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:47:25,475 [Worker-543] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:47:25,483 [Worker-543] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:47:25,484 [Worker-543] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:47:25,491 [Worker-543] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:49:06,229 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:49:06,237 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:49:06,242 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:49:06,250 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:50:05,098 [Worker-546] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:50:05,110 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:50:05,111 [Worker-546] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:50:05,123 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:50:51,433 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:50:51,448 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:50:51,456 [Worker-537] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:50:51,465 [Worker-537] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:51:17,150 [Worker-545] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:51:17,169 [Worker-545] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:51:17,171 [Worker-545] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:51:17,180 [Worker-545] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:52:27,847 [Worker-546] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:52:27,852 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:52:27,856 [Worker-546] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:52:27,861 [Worker-546] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:52:57,031 [Worker-547] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:52:57,042 [Worker-547] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:52:57,043 [Worker-547] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:52:57,081 [Worker-547] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:54:09,433 [Worker-538] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:54:09,453 [Worker-538] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:54:09,462 [Worker-538] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:54:09,472 [Worker-538] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:54:59,120 [Worker-550] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:54:59,128 [Worker-550] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:54:59,129 [Worker-550] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:54:59,141 [Worker-550] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 14:55:38,360 [Worker-552] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:55:38,366 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 14:55:38,370 [Worker-552] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 14:55:38,375 [Worker-552] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:07:48,956 [Worker-558] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:07:48,967 [Worker-558] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:07:48,968 [Worker-558] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:07:48,980 [Worker-558] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:07:51,078 [Worker-557] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:07:51,097 [Worker-557] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:07:51,104 [Worker-557] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:07:51,113 [Worker-557] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:08:10,775 [Worker-557] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:08:10,784 [Worker-557] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:08:10,786 [Worker-557] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:08:10,798 [Worker-557] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:08:46,074 [Worker-559] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:08:46,092 [Worker-559] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:08:46,097 [Worker-559] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:08:46,105 [Worker-559] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:09:50,785 [Worker-560] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:09:50,792 [Worker-560] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:09:50,793 [Worker-560] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:09:50,806 [Worker-560] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:10:23,631 [Worker-559] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:10:23,650 [Worker-559] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:10:23,654 [Worker-559] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:10:23,662 [Worker-559] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:10:53,038 [Worker-559] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:10:53,048 [Worker-559] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:10:53,050 [Worker-559] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:10:53,063 [Worker-559] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:11:29,171 [Worker-562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:11:29,183 [Worker-562] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:11:29,191 [Worker-562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:11:29,212 [Worker-562] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:12:05,427 [Worker-563] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:12:05,438 [Worker-563] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:12:05,440 [Worker-563] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:12:05,451 [Worker-563] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:12:28,489 [Worker-562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:12:28,503 [Worker-562] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:12:28,511 [Worker-562] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:12:28,518 [Worker-562] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:30:08,636 [Worker-558] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:30:08,647 [Worker-558] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:30:08,649 [Worker-558] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:30:08,663 [Worker-558] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:30:58,452 [Worker-569] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:30:58,462 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:30:58,467 [Worker-569] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:30:58,477 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:31:06,052 [Worker-569] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:31:06,063 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:31:06,065 [Worker-569] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:31:06,103 [Worker-569] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:31:30,767 [Worker-567] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:31:30,784 [Worker-567] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:31:30,793 [Worker-567] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:31:30,803 [Worker-567] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:31:43,730 [Worker-568] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:31:43,740 [Worker-568] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:31:43,742 [Worker-568] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:31:43,761 [Worker-568] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:33:08,173 [Worker-575] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:33:08,188 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:33:08,196 [Worker-575] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:33:08,204 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:33:37,574 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:33:37,582 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:33:37,583 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:33:37,597 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:34:18,420 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:34:18,437 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:34:18,445 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:34:18,460 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:34:56,066 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:34:56,077 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:34:56,079 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:34:56,090 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:35:23,780 [Worker-577] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:35:23,800 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:35:23,805 [Worker-577] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:35:23,812 [Worker-577] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:35:38,888 [Worker-580] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:35:38,895 [Worker-580] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:35:38,896 [Worker-580] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:35:38,908 [Worker-580] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:36:47,682 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:36:47,702 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:36:47,712 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:36:47,722 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:37:19,147 [Worker-576] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:37:19,153 [Worker-576] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:37:19,154 [Worker-576] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:37:19,165 [Worker-576] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:37:55,561 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:37:55,576 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:37:55,600 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:37:55,610 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:38:25,926 [Worker-575] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:38:25,935 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:38:25,936 [Worker-575] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:38:25,950 [Worker-575] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:39:46,659 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:39:46,669 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:39:46,675 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:39:46,684 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:40:27,155 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:40:27,164 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:40:27,165 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:40:27,177 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:41:29,914 [Worker-584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:41:29,927 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:41:29,933 [Worker-584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:41:29,943 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:41:54,447 [Worker-583] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:41:54,457 [Worker-583] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:41:54,460 [Worker-583] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:41:54,470 [Worker-583] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:42:28,235 [Worker-564] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:42:28,250 [Worker-564] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:42:28,257 [Worker-564] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:42:28,269 [Worker-564] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:42:50,893 [Worker-586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:42:50,900 [Worker-586] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:42:50,902 [Worker-586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:42:50,914 [Worker-586] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:43:58,410 [Worker-582] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:43:58,427 [Worker-582] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:43:58,435 [Worker-582] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:43:58,449 [Worker-582] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:44:16,415 [Worker-582] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:44:16,425 [Worker-582] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:44:16,426 [Worker-582] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:44:16,440 [Worker-582] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:44:35,986 [Worker-587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:44:36,001 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:44:36,010 [Worker-587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:44:36,018 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:45:11,458 [Worker-584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:45:11,469 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:45:11,471 [Worker-584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:45:11,480 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:45:35,113 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:45:35,130 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:45:35,139 [Worker-571] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:45:35,149 [Worker-571] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:45:58,797 [Worker-586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:45:58,808 [Worker-586] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:45:58,809 [Worker-586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:45:58,827 [Worker-586] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:47:17,030 [Worker-586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:47:17,050 [Worker-586] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:47:17,055 [Worker-586] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:47:17,063 [Worker-586] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:47:35,900 [Worker-584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:47:35,907 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:47:35,908 [Worker-584] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:47:35,920 [Worker-584] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:48:08,600 [Worker-587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:48:08,607 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:48:08,610 [Worker-587] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:48:08,617 [Worker-587] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:49:05,879 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:49:05,889 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:49:05,891 [Worker-578] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:49:05,905 [Worker-578] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources
+2016-09-02 15:52:06,152 [Worker-592] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:52:06,165 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-02 15:52:06,170 [Worker-592] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-02 15:52:06,177 [Worker-592] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\admin\Java Workspaces\Week5Project\weekfiveproject\src\test\resources

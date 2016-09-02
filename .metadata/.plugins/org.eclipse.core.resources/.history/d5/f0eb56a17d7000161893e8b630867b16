@@ -1,0 +1,189 @@
+package com.weekfiveproject;
+
+import java.sql.*;
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class DAO 
+{
+	static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
+	static final String DB_URL = "jdbc:mysql://localhost:3306/?user=root&autoReconnect=true&useSSL=false";
+	static final String USER = "root";
+	static final String PASSWORD = "root";
+
+	static Connection CONN = null;
+	static Statement STMT = null;
+	static PreparedStatement PREP_STMT = null;
+	static ResultSet RES_SET = null;
+
+	public static final ArrayList<Bakery> ourBakery = new ArrayList<>();
+	
+	public static void connToDB() {
+
+		try {
+
+			Class.forName(JDBC_DRIVER);
+
+			System.out.println("Trying to connect to the DB...");
+			CONN = DriverManager.getConnection(DB_URL, USER, PASSWORD);
+			System.out.println("Connected to DB.");
+
+		} catch (SQLException | ClassNotFoundException e) {
+			System.out.println("Connection failed");
+			e.printStackTrace();
+		}
+
+	}
+	
+	public static void viewDB() {
+
+		connToDB();
+
+
+		try {
+
+			STMT = CONN.createStatement();
+			RES_SET = STMT.executeQuery("SELECT * FROM our_schema.zoo;");
+
+			while (RES_SET.next()) {
+
+				Bakery itemInDB = new Bakery();
+
+				itemInDB.setBakeryID((RES_SET.getString("bakery_id")));
+				itemInDB.setType(RES_SET.getString("type"));
+				itemInDB.setCalories(RES_SET.getString("calories"));
+				itemInDB.setPrice(RES_SET.getString("price"));
+				itemInDB.setTopping(RES_SET.getString("topping"));
+
+				ourBakery.add(itemInDB);
+
+			}
+
+			for (Bakery bakery : ourBakery) {
+				System.out.println(bakery);
+			}
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+
+	} // read
+	
+	public static void writeToDB(Bakery bakery) {
+
+		Bakery itemToAdd = new Bakery();
+
+		itemToAdd = bakery;
+
+		try {
+
+			connToDB();
+
+			PREP_STMT = CONN.prepareStatement(insertIntoDB);
+
+			PREP_STMT.setString(1, itemToAdd.getType());
+			PREP_STMT.setString(2, itemToAdd.getCalories());
+			PREP_STMT.setString(3, itemToAdd.getPrice());
+			PREP_STMT.setString(4, itemToAdd.getTopping());
+
+			System.out.println(PREP_STMT);
+
+			PREP_STMT.executeUpdate();
+
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	} // write
+	
+	public static void deleteFromDB() {
+
+		Scanner sc = new Scanner(System.in);
+
+		viewDB();
+
+		System.out.println("\nWhich Animal would you like to delete?"
+				+ "\nPlease select an ID");
+		int id = sc.nextInt();
+
+		try {
+			PREP_STMT = CONN.prepareStatement(delFromDB(id));
+			
+			PREP_STMT.executeUpdate();
+			
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	} // delete
+	
+	public static void updateToDB()
+	{
+		Bakery itemToUpdate = new Bakery();
+		connToDB();
+		
+		try 
+		{
+			PREP_STMT = CONN.prepareStatement(updateToDB);
+			
+			PREP_STMT.setString(1, itemToUpdate.getBakeryID());
+			PREP_STMT.setString(1, itemToUpdate.getType());
+			PREP_STMT.setString(2, itemToUpdate.getCalories());
+			PREP_STMT.setString(3, itemToUpdate.getPrice());
+			PREP_STMT.setString(4, itemToUpdate.getTopping());
+			PREP_STMT.setString(5, itemToUpdate.getBakeryID());
+			
+			PREP_STMT.executeUpdate();
+		} 
+		
+		catch (SQLException e) 
+		{
+
+			e.printStackTrace();
+		}
+		
+	}//update
+	
+	private static String insertIntoDB = "INSERT INTO `our_schema`.`zoo`" + "(name, species, enclosure, food)"
+			+ " VALUES " + "(?, ?, ?, ?)";
+
+	private static String delFromDB(int id) {
+		return "DELETE FROM `our_schema`.`zoo` WHERE animal_id = " + id + ";";
+	}
+	
+	private static String updateToDB = "UPDATE `bakery`.`bakery`"
+            + "SET"
+            +" bakery_id= ?, type= ?, calories= ?, genre= ?, length= ?"
+            + " WHERE "
+            + "bakery_id"
+            + "= ?";
+	
+	private static Bakery aboutTheBakery() {
+
+		Scanner sc = new Scanner(System.in);
+
+		Bakery itemToAdd = new Bakery();
+
+		System.out.println("What is the name of the item?");
+
+		itemToAdd.setType(sc.nextLine());
+
+		System.out.println("How many calories does the item have?");
+
+		itemToAdd.setCalories(sc.nextLine());
+
+		System.out.println("How much does the item cost?");
+
+		itemToAdd.setPrice(sc.nextLine());
+
+		System.out.println("What toppings does the item have?");
+
+		itemToAdd.setTopping(sc.nextLine());
+
+		sc.close();
+		return itemToAdd;
+	}
+
+}
